@@ -1,5 +1,4 @@
 # Son los datos de las partículas contaminantes
-## de las partículas de 
 * Dióxido de Sulfuro SO2
 * Dióxido de Nitrógeno
 * Ozono
