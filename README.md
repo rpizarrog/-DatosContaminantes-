@@ -6,7 +6,10 @@
  Pm2.5
  Pm10
  
- Falta Bióxido de Carbono
+ Falta 
+ Bióxido de Carbono
+ Monóxido de carbono
+ Plomo.
  
  Deberán ser 6 de cada zona, primero las de zona CENTRO.
  
