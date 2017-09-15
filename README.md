@@ -1,1 +1,12 @@
-# -DatosContaminantes-
+# Son los datos de las partículas contamiantes
+ de las partículas de 
+ Dióxido de Sulfuro SO2
+ Dióxido de Nitrógeno
+ Ozon
+ Pm2.5
+ Pm10
+ 
+ Falta Bióxido de Carbono
+ 
+ Deberán ser 6 de cada zon, primero las de zona CENTRO.
+ 
