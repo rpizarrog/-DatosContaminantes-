@@ -8,5 +8,5 @@
  
  Falta Bióxido de Carbono
  
- Deberán ser 6 de cada zon, primero las de zona CENTRO.
+ Deberán ser 6 de cada zona, primero las de zona CENTRO.
  
